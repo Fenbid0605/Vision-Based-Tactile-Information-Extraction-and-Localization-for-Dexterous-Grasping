@@ -1,0 +1,3 @@
+get_pointcloud.py
+利用Intel RealSense相机捕获的深度图像和彩色图像来生成点云，并使用Open3D库进行处理和可视化。下面是对代码的详细解释:
+
